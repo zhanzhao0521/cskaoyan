@@ -1,0 +1,6 @@
+add_subdirectory(01_hello_world)
+add_subdirectory(02_1_symbolic_constants)
+add_subdirectory(02_2_float)
+add_subdirectory(02_3_char)
+add_subdirectory(02_4_cast)
+add_subdirectory(02_5_printf)
