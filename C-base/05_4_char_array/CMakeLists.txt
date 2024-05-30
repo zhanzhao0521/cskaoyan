@@ -1,0 +1,1 @@
+add_executable(char_array char_array.c)

@@ -1,0 +1,1 @@
+add_executable(scanf_string scanf_string.c)

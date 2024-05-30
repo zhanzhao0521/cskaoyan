@@ -1,7 +1,7 @@
 #include "stdio.h"
 
 int main(void){
-    int i;
+    int i,ret;
     char c;
     float f;
     scanf("%d",&i);
@@ -11,5 +11,7 @@ int main(void){
     printf("c=%c\n",c);
     scanf("%f",&f);
     printf("f=%f\n",f);
+    ret = scanf("%d %c%f",&i,&c,&f); // 混合读取
+    printf("i=%d,c=%c,f=%f",i,c,f);
     return 0;
 }

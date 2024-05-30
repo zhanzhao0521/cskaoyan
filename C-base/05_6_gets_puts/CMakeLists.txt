@@ -1,0 +1,1 @@
+add_executable(gets_puts gets_puts.c)

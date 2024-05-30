@@ -1,0 +1,1 @@
+add_executable(04work 04work.c)

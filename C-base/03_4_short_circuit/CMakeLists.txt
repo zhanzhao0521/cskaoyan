@@ -1,0 +1,1 @@
+add_executable(short_circuit short_circuit.c)
