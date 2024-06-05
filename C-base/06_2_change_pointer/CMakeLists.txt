@@ -1,0 +1,1 @@
+add_executable(change_pointer change_pointer.c)
