@@ -1,0 +1,1 @@
+add_executable(global_variable main.c)
